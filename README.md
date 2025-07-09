@@ -1,2 +1,2 @@
 # eksworkshop
-AWS EKS Worshop Home Lab
+AWS EKS Workshop Home Lab setup
